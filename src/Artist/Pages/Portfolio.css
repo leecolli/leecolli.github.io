@@ -1,0 +1,47 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+.text_body_portfolio {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.text_body_portfolio h1 {
+    text-align: center;
+    color: white;
+    background-color:  #448044;
+    border-radius: 20px;
+}
+
+.text_body_portfolio p {
+    line-height: 2;
+    text-indent: 20px;
+}
+
+.text-body-portfolio-sub {
+    /* Total height needs to be at least 300 for dropdown menu to work */
+    margin-top: 20px;
+    min-height: 300px;
+    text-align: left;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.text-body-portfolio-sub p {
+    text-indent: 20px;
+    line-height: 2;
+}
+
+.text-body-portfolio-sub h1 {
+    text-align: center;
+    background-color:  #448044;
+    border-radius: 20px;
+    color: white;
+}
+
+.image-gallery {
+    margin-bottom: 100px;
+}

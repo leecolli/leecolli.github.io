@@ -1,0 +1,49 @@
+.portfolio-content {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.portfolio-content h1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.portfolio-content p {
+    line-height: 2;
+    text-indent: 20px;
+    margin-bottom: 30px;
+}
+
+.portfolio-content h3{
+    text-align: center;
+}
+
+.portfolio-content h2{
+    text-align: center;
+}
+
+.portfolio-content ul {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.text-body-projects {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+
+.text-body-projects h1 {
+    text-align: center;
+    color: white;
+    background-color:  black;
+    border-radius: 20px;
+}
+
+.text-body-projects p {
+    line-height: 2;
+    text-indent: 20px;
+}

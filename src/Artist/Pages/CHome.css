@@ -1,0 +1,24 @@
+/* Creator Home CSS */
+
+.box {
+    border: 3px solid black;
+    padding: 20px 20px;
+    background-color: #ECF5F4;
+    margin: auto;
+    width: 50%;
+}
+
+.c_head {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    text-align: center;
+    background-color: #448044;
+    color: white;
+    border-radius: 50px;
+}
+
+.c_head_b {
+    text-align: center;
+}
